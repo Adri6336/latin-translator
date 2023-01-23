@@ -5,6 +5,7 @@ Instantiate Translator class with the as follows:
     from main import *
     t = Translator(key)
     t.translateToLatin('Wow, this is in Latin!!!')
+    >>> \n\n"Vae, hoc est in Latina!"
 
 
 The Translator class will try to determine if your text is in line with OpenAI's usage policies 
