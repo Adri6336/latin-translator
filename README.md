@@ -4,7 +4,7 @@ Instantiate Translator class with the as follows:
 
     from main import *
     t = Translator(key)
-    t.translateToLatin('Wow, this is in Latin!!!')
+    t.translate('Wow, this is in Latin!!!')
     >>> \n\n"Vae, hoc est in Latina!"
 
 
