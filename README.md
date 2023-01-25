@@ -1,6 +1,6 @@
 # latin-translator
 Uses OpenAI's GPT-3 to translate text into Latin. You must have a valid GPT-3 API key to use. 
-Instantiate Translator class with the as follows:
+Instantiate Translator class with the code as follows:
 
     from main import *
     t = Translator(key)
